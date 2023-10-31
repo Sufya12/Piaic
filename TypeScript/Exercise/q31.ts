@@ -13,7 +13,7 @@ and make sure the correct message is printed.
 
 // Non-empty array case
 
-let userNames: string[] = ['admin', 'Ali Usman', 'Muhammad Sufyan', 'Muhammad Ali', 'Muhammad Sulman];
+let userNames: string[] = ['admin', 'Ali Usman', 'Muhammad Sufyan', 'Muhammad Ali', 'Muhammad Sulman'];
 
 //functional case
                            
