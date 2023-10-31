@@ -24,13 +24,13 @@ sure you actually have an empty list at the end of your program.
 */
 
 let guestList: Array<string> = [
-    'Ali Usman,
+    'Ali Usman',
     'Ahmad Khan',
     'Ali Asif',
-    'Sufyan Ahmad,
+    'Sufyan Ahmad',
     'Ali Ahmad',
-    'Qasim Ali 
-  ]
+    'Qasim Ali '
+  ];
 
   // message about invitng only two people.
 
